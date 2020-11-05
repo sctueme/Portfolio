@@ -29,7 +29,7 @@ h5{
 .carousel-control-prev-icon, 
 .carousel-control-next-icon {
 border: 1px solid black;
-content: '<', '>';
+color: black;
 }
 
 
