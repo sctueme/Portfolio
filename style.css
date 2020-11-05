@@ -28,14 +28,14 @@ h5{
 
 .carousel-control-prev, 
 .carousel-control-next {
-background-color: white;
+background-color: #ffffff;
 background-size: 10%, 10%;
 }
 
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
   background-image: none;
-  color: red;
+  color: #ba5454;
 }
 
 
