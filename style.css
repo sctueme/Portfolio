@@ -29,12 +29,7 @@ h5{
 .carousel-control-prev, 
 .carousel-control-next {
 background-color: #bfbfbf;
-background-size: 5%, 5%;
-}
-
-.carousel-control-next-icon,
-.carousel-control-prev-icon {
-  color: #ba5454;
+background-size: 5px, 5px;
 }
 
 
