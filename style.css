@@ -22,6 +22,10 @@ h5{
   background-color: #050505;
 }
 
+.carousel-indicators .active {
+  background-color: #050505;
+}
+
 
 .left{
     text-align: left !important;
