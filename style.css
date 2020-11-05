@@ -17,6 +17,12 @@ h5{
     -o-background-size: cover;
     background-size: cover;
   }
+
+.carousel-indicators li {
+  background-color: #050505;
+}
+
+
 .left{
     text-align: left !important;
 }
