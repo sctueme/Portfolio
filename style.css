@@ -1,0 +1,57 @@
+body{
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nanum Myeongjo', serif;
+}
+
+h5{
+    font-size: 1rem;
+    font-weight: bolder;
+}
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background-image: url("/imgmle1/tbg.png");
+    /* background: no-repeat center center scroll;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+.left{
+    text-align: left !important;
+}
+.main-style{
+    color: #d3d3d3;
+    text-align: center;
+    width:80%;
+    margin:auto;
+}
+.img-table{
+    max-width: 500px;
+}
+video{
+    width: 100%;
+}
+.vid-con{
+    width: 33%;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+.container{
+    display: flex;
+}
+video{
+    box-shadow: -1px 3px 40px 0px #95c4da40;
+}
+.img-kmeans{
+    width: 50%;
+}
+.bg-white{
+    background-color: #cbcbcb;
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
