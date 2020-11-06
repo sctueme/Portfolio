@@ -26,7 +26,10 @@ h5{
   background-color: #050505;
 }
 
-
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
 
 
 
