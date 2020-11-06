@@ -41,7 +41,7 @@ h5{
 .main-style{
     color: #4f4f4f;
     text-align: center;
-    width:70%;
+    width:80%;
     margin:auto;
 }
 .img-table{
@@ -62,7 +62,7 @@ video{
     box-shadow: -1px 3px 40px 0px #95c4da40;
 }
 .img-fluid{
-    max-width: 70%;
+    max-width: 80%;
     height: auto;
 }
 .bg-white{
